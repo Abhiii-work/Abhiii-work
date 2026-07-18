@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Civic Issue Reporter",
+    "repo": "Abhiii-work/Abhiii-work",
+    "logo": "logo.png",
+    "description": "Digital platform to streamline public civic defect reporting & tracking",
+    "tags": ["Node.js", "Express", "MongoDB", "Leaflet"]
+  },
+  {
+    "name": "Hostel Management",
+    "repo": "Abhiii-work/Abhiii-work",
+    "logo": "op.png",
+    "description": "Full-stack portal enabling room allocation, leave management, & fees tracking",
+    "tags": ["Node.js", "Express", "Supabase", "JavaScript"]
+  },
+  {
+    "name": "Traffic Police Partner",
+    "repo": "Abhiii-work/Abhiii-work",
+    "logo": "chess.png",
+    "description": "Digital platform to streamline traffic violation reporting & fine management",
+    "tags": ["Python", "Django", "MySQL", "HTML/CSS"]
+  },
+  {
+    "name": "Developer Toolkit",
+    "repo": "Abhiii-work/Abhiii-work",
+    "logo": "claster.png",
+    "description": "Data structures, algorithm implementations, and utility scripts",
+    "tags": ["Python", "Java", "C", "Algorithms"]
+  }
+]
