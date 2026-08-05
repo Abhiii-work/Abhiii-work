@@ -1,30 +1,50 @@
 [
   {
     "name": "Civic Issue Reporter",
-    "repo": "Abhiii-work/Abhiii-work",
-    "logo": "logo.png",
+    "repo": "Abhiii-work/civic-issue-reporter",
+    "logo": "logo_civic.png",
     "description": "Digital platform to streamline public civic defect reporting & tracking",
-    "tags": ["Node.js", "Express", "MongoDB", "Leaflet"]
+    "tags": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Leaflet"
+    ]
   },
   {
     "name": "Hostel Management",
-    "repo": "Abhiii-work/Abhiii-work",
-    "logo": "op.png",
+    "repo": "Abhiii-work/Hostel-Management-portal",
+    "logo": "logo_hostel.png",
     "description": "Full-stack portal enabling room allocation, leave management, & fees tracking",
-    "tags": ["Node.js", "Express", "Supabase", "JavaScript"]
+    "tags": [
+      "Node.js",
+      "Express",
+      "Supabase",
+      "JavaScript"
+    ]
   },
   {
-    "name": "Traffic Police Partner",
-    "repo": "Abhiii-work/Abhiii-work",
-    "logo": "chess.png",
+    "name": "CyberShield",
+    "repo": "Abhiii-work/CyberShield",
+    "logo": "logo_cybershield.png",
+    "description": "Cyber crime reporting portal & automated threat prevention platform",
+    "tags": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "CyberSecurity"
+    ]
+  },
+  {
+    "name": "The police partner",
+    "repo": "Abhiii-work/The-police-partner",
+    "logo": "logo_police.png",
     "description": "Digital platform to streamline traffic violation reporting & fine management",
-    "tags": ["Python", "Django", "MySQL", "HTML/CSS"]
-  },
-  {
-    "name": "Developer Toolkit",
-    "repo": "Abhiii-work/Abhiii-work",
-    "logo": "claster.png",
-    "description": "Data structures, algorithm implementations, and utility scripts",
-    "tags": ["Python", "Java", "C", "Algorithms"]
+    "tags": [
+      "Python",
+      "Django",
+      "MySQL",
+      "HTML/CSS"
+    ]
   }
 ]
