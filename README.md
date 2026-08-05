@@ -12,25 +12,25 @@
 
 <!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&theme=default&hide_border=true" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Abhiii-work&theme=tokyonight&hide_border=true" alt="Abhinandan's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Abhiii-work&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&hide_border=true" alt="Streak" />
 </picture>
 
 <br/>
 <br/>
 
-<!-- Stats + Top languages — 100% Equal Height, Width & Font Size -->
+<!-- Stats + Top languages — exact replica format matching Arif Hasan -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Abhinandan's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0D1117&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&border_radius=10" />
+  <img height="192" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0D1117&border_radius=10" alt="Abhinandan's GitHub Stats" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=5&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=5&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=5&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=8&title_color=22D3EE&text_color=94A3B8&bg_color=0D1117&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=8&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&border_radius=10" />
+  <img height="192" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=8&title_color=22D3EE&text_color=94A3B8&bg_color=0D1117&border_radius=10" alt="Most Used Languages" />
 </picture>
 
 </div>
