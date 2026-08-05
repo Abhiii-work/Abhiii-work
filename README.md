@@ -1,20 +1,11 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="36%" align="center" valign="middle" style="border:none;">
-      <img src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/avatar.png" width="100%" style="border-radius: 16px; border: 2px solid #22D3EE;" alt="Abhinandan H S" />
-    </td>
-    <td width="64%" valign="middle" style="border:none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
-        <img src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg" width="100%" alt="System Info">
-      </picture>
-    </td>
-  </tr>
-</table>
-</div>
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
+  <img alt="Abhinandan H S" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg" width="100%">
+</picture>
 
 <!-- ===== GITHUB STATS ===== -->
 
