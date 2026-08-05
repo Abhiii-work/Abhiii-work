@@ -1,9 +1,10 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
-  <img alt="Abhinandan H S" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg">
+  <img alt="Abhinandan H S" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -12,9 +13,8 @@
 
 <!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&theme=tokyonight&background=0A101F&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&theme=default&background=FFFFFF&hide_border=true" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Abhiii-work&theme=tokyonight&background=0A101F&hide_border=true" alt="Abhinandan's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abhiii-work&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Abhiii-work&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Abhinandan's streak" />
 </picture>
 
 <br/>
@@ -38,7 +38,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/output/snake-dark.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/output/snake-light.svg" />
 </picture>
 
 </div>
