@@ -19,25 +19,18 @@
 
 <br/>
 
-<!-- Stats + Top languages — side by side table -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="left" valign="top" style="border:none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" />
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Abhinandan's GitHub stats" />
-      </picture>
-    </td>
-    <td width="50%" align="right" valign="top" style="border:none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=6&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF" />
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Top languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<!-- Stats + Top languages — side by side without table borders -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhiii-work&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Abhinandan's GitHub stats" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=6&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhiii-work&layout=compact&langs_count=6&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="Top languages" />
+</picture>
 
 </div>
 
