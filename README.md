@@ -1,11 +1,13 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
-  <img alt="Abhinandan H S" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
-</picture>
+<a href="https://www.abhi-nandan.in" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
+    <img alt="Abhinandan H S" src="https://raw.githubusercontent.com/Abhiii-work/Abhiii-work/main/light.svg">
+  </picture>
+</a>
 
 <!-- ===== GITHUB STATS ===== -->
 
@@ -60,6 +62,10 @@
 <br/>
 <div align="center">
 
+<a href="https://www.abhi-nandan.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logoColor=22D3EE&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMjJEM0VFIj48cGF0aCBkPSJNMTIgMGExMiAxMiAwIDEgMCAwIDI0IDEyIDEyIDAgMCAwIDAtMjR6bTcuOTMgMTFoLTMuMDlhMTUuNyAxNS43IDAgMCAwLTEuNzItNS45MkExMC4wMyAxMC4wMyAwIDAgMSAxOS45MyAxMXpNMTIgMi4wN2MxLjM4IDEuODMgMi4zNSA0LjQyIDIuNTkgNi45M0g5LjQxYy4yNC0yLjUxIDEuMjEtNS4xIDIuNTktNi45M3ptLTQuMTMgMy4wMUExNS43IDE1LjcgMCAwIDAgNi4xNSAxMUgzLjA3YTEwLjAzIDEwLjAzIDAgMCAxIDQuOC01Ljkyek0zLjA3IDEzaDMuMDhhMTUuNyAxNS43IDAgMCAwIDEuNzIgNS45MkExMC4wMyAxMC4wMyAwIDAgMSAzLjA3IDEzek0xMiAyMS45M2MtMS4zOC0xLjgzLTIuMzUtNC40Mi0yLjU5LTYuOTNoNS4xOGMtLjI0IDIuNTEtMS4yMSA1LjEtMi41OSA2Ljkzem00LjEzLTMuMDFhMTUuNyAxNS43IDAgMCAwIDEuNzItNS45MmgzLjA4YTEwLjAzIDEwLjAzIDAgMCAxLTQuOCA1LjkyeiIvPjwvc3ZnPg==" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhi-nandan-in" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTIgMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA6MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA6NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
